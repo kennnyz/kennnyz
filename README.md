@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kennnyz
 - 👀 I’m interested in programming and creating something new to change world 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on global companies such as: Tesla, Apple, amazon, etc.
 - 📫 How to reach me: by the mail(muhammed1410@yandex.ru), telegram(@idmhslkf)
 
