@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and creating something new to change world 
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on global companies such as: Tesla, Apple, amazon, etc.
-- 📫 How to reach me: by the mail(muhammed1410@yandex.ru), telegram(@idmhslkf)
+- 📫 How to reach me: by the mail(tmc_inc@mail.ru)
 
 <!---
 kennnyz/kennnyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
