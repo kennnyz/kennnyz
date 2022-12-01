@@ -24,9 +24,9 @@
 </div>
 <h2>:man_technologist: About me:</h2>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Core Stack: Go, JS/React. Mainly focused on Backend.
 
-- :seedling: Exploring Technical Content Writing.
+- 🔥 Interested in Blockchain & DeFi
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
