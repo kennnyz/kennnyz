@@ -56,7 +56,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kennnyz&theme=blueberry)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kennnyz&theme=blueberry)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennnyz&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennnyz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
