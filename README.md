@@ -23,7 +23,10 @@
 </div>
 <h2>:man_technologist: About me:</h2>
 
-- :telescope: Core Stack: Go, JS/React. Mainly focused on Backend.
+- :telescope: Core Stack: Go, JS/React. 
+
+
+- 🥷 Mainly focused on Backend.
 
 - 🔥 Interested in Blockchain & DeFi
 
