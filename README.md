@@ -26,7 +26,7 @@
 - :telescope: Core Stack: Go, JS/React. 
 
 
-- 🥷 Mainly focused on Backend.
+- 🥷 Mainly focused on Backend and System Design.
 
 - 🔥 Interested in architecturing and designing highly scalable, distributed and fault-tolernat systems 
 
