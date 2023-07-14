@@ -19,7 +19,7 @@
 
 - :telescope: Core Stack: Go, JS/React. 
 
-- :ninja: Mainly focused on Backend and System Design.
+- 🌚: Mainly focused on Backend and System Design.
 
 - 🔥 Interested in architecturing and designing highly scalable, distributed and fault-tolernat systems 
 
