@@ -17,7 +17,7 @@
 </div>
 <h2>:man_technologist: About me:</h2>
 
-- :telescope: Core Stack: Go, JS/React. 
+- :telescope: Core Stack: Go
 
 - 🌚: Mainly focused on Backend and System Design.
 
