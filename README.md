@@ -23,7 +23,6 @@
 
 - 🔥 Interested in architecturing and designing highly scalable, distributed and fault-tolernat systems 
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
 ---
 
 ### :fire: My Stats :
